@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lancewelker42-code.github.io/u14-girls-rankings/sitemap.xml
